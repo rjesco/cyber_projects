@@ -1,11 +1,6 @@
 # cyber_projects
 
-A loose documentation of my adventures in cybersecurity. I love to build, break, and 
-rebuild. I hope to document my trials and tribulations along the way. As I go through 
-collecting different certifications, I build projects that interest me from coursework 
-or my everyday research. I utilize my Homelab to do this, My goal in all of this is to be able to take book concepts to 
-real world implementations. I hope this serves as a showcase of my pursuits of learning, 
-but also as reference for others on similar paths.
+A loose documentation of my adventures in cybersecurity. I love to build, break, and rebuild. I hope to document my trials and tribulations along the way. As I collect different certifications and pursue a path toward the ICS field, I build projects that interest me from coursework or my everyday research — using my homelab to bring it all to life. My goal in all of this is to take book concepts to real world implementations. I hope this serves as a showcase of my pursuits of learning, but also as reference for others on similar paths.
 
 ## Certifications
 - **GSEC** – GIAC Security Essentials
