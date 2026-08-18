@@ -14,6 +14,6 @@ own environment.
 
 | Projects | What I hope to demonstrates | Stack |
 |---|---|---|
-| [SIEM](./siem) | Log aggregation, threat detection, alerting | Wazuh, ELK |
+| [SIEM](SEIM) | Log aggregation, threat detection, alerting | Wazuh, ELK |
 | [NAS](./nas) | Storage, RAID, backups, self-hosting | TrueNAS, ZFS |
 | [Network Hardening](./network-hardening) | Segmentation, firewall rules, VPN | pfSense, VLANs |
