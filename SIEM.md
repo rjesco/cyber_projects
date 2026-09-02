@@ -87,7 +87,7 @@ That gave me hands-on experience with the same basic detection-engineering proce
 **observe → analyze → build → test → tune → deploy**
 
 ---
-
+---
 ## 🌍 Remote Testing and Validation
 
 One of the most useful tests I’ve done was while traveling internationally.
