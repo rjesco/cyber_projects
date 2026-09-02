@@ -58,7 +58,8 @@ I can use this to:
 
 This has been useful because I’m able to see the full path from network activity to firewall logs to SIEM alerts.
 
----## 🚨 Custom Port Scan Detection
+---
+## 🚨 Custom Port Scan Detection
 
 One of the better learning moments in the lab came from reviewing Wazuh logs and realizing I was getting an extremely high number of hits related to scanning activity.
 
