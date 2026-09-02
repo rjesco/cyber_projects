@@ -273,7 +273,3 @@ The goal was never just to have a rack full of hardware and a bunch of tools ins
 I want to understand how the pieces work together, what breaks when I make changes, how to troubleshoot those failures, and how the same concepts apply to real network and security environments.
 
 If something breaks and I have to spend hours figuring out why, that usually ends up being one of the better parts of the project.
-
----
-
-> **Note:** This repository documents an active homelab. Public IP addresses, credentials, keys, passwords, and other sensitive information are removed or sanitized before being posted.
