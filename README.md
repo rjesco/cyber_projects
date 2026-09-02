@@ -15,6 +15,6 @@ own environment.
 | Projects | What I hope to demonstrates | Stack |
 |---|---|---|
 | [HomeLab](HOMELAB.md) | Planning, Building and Operation of my HomeLab |ProxMox, pfSense, VLANs |
-| [SIEM](SEIM) | Log aggregation, threat detection, alerting | Wazuh, ELK |
+| [SIEM](SIEM.md) | Log aggregation, threat detection, alerting | Wazuh, ELK |
 | [NAS](./nas) | Storage, RAID, backups, self-hosting | TrueNAS, ZFS |
 | [Network Hardening](./network-hardening) | Segmentation, firewall rules, VPN | pfSense, VLANs |
