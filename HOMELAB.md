@@ -30,10 +30,11 @@ A lot of the lab is built around things I actually use at home, but I also use i
        ▼             ▼              ▼              ▼
     Proxmox         NAS         PoE Cameras     Wi-Fi AP
        │
-       ├── Ubuntu Server
+       ├── pfSense
+       ├── Ubuntu Server (Wazuh)
        ├── Linux Mint
        ├── Ubuntu Desktop
-       ├── Wazuh
+       ├── Kali 
        └── Additional Lab VMs
 ```
 
